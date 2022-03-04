@@ -12,7 +12,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Contents
 
-[Simple Quiz App](#simple-quiz-app--original-github) |
+[Simple Quiz App](#simple-quiz-app--original-github) | 
 [Quote Generator](#quote-generator---original-github) | [Infinity Scroll](#infinity-scroll---original-github) | [Picture in Picture](#picture-in-picture---original-github) | [Joke Teller](#joke-teller---original-github) | [Light/Dark Mode](#light-dark-mode---original-github) | [Animated Template](#animated-template---original-github) | [Navigation Nation](#navigation-nation---original-github) | [Music Player](#music-player---original-github) | [Custom Countdown](#custom-countdown---original-github) | [Book Keeper](#book-keeper---original-github) | [Video Player](#video-player---original-github) | [Form Validator](#form-validator---original-github) | [Rock Spock](#rock-spock---original-github) | [NASA APOD](#nasa-apod---original-github) | [Paint Clone](#paint-clone---original-github) | [Pong](#pong---original-github) | [Math Sprint Game](#math-sprint-game---original-github) | [Drag and Drop](#drag-and-drop---original-github) | [Calculator](#calculator---original-github) | [Splash Page](#splash-page---original-github) | [Pig Game](#pig-game---original-github)
 
 ### Simple Quiz App - Original: [Github](https://github.com/RupamG/simple-quiz)
@@ -23,7 +23,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
 
-- Joe Hookham [Github] (https://github.com/Elmariachi87/quotle) | 
+- Joe Hookham [Github] (https://github.com/Elmariachi87/quotle) | [View Live] (https://elmariachi87-quotle.netlify.app/)
 - Ibrahim - [Github](https://github.com/piincher/quote-generator-) | [View Live] (https://piincher.github.io/quote-generator-/)
 - Nu'man - [Github](https://github.com/numanharith/js20-quote-generator) | [View Live](https://numanharith.github.io/js20-quote-generator/)
 - Maya Pun - [Github](https://github.com/mayapun/quote-generator.git) | [View Live] (http://127.0.0.1:5500/quote-generator/index.html)
